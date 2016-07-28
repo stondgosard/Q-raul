@@ -1,21 +1,21 @@
 #EXTM3U
-#3EXTINF:-0,UCV HD
+#EXTINF:-0,UCV HD
 http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream1/playlist.m3u8
-#3EXTINF:-0,CHV HD
+#EXTINF:-0,CHV HD
 http://live.hls.http.chv.ztreaming.com/chvhd/chvHi.m3u8
-#3EXTINF:-1,CANAL 13 HD
+#EXTINF:-1,CANAL 13 HD
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
-#3EXTINF:-1,MEGA HD
+#EXTINF:-1,MEGA HD
 http://edge-21-gtd.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
-#3EXTINF:-1,TVN
+#EXTINF:-1,TVN
 http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
-#3EXTINF:-1,TVU UDEC
+#EXTINF:-1,TVU UDEC
 http://movilstream.digitalproserver.com/tvu/tvuvivo/livestream1/playlist.m3u8
-#3EXTINF:-1,CAMARA DIPUTADOS
+#EXTINF:-1,CAMARA DIPUTADOS
 http://camara.ztreaming.com:80/camara8/streamcam8.sdp/playlist.m3u8?
-#3EXTINF:-1,TELECANAL 1
+#EXTINF:-1,TELECANAL 1
 http://wow2.cl.digitalproserver.com/tccr/tccrvivo/tccr.smil/playlist.m3u8?
-#3EXTINF:-1,TELECANAL 2
+#EXTINF:-1,TELECANAL 2
 http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8?
 #3EXTINF:-1,CANAL DEPORTE OLIMPICO CDO
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
