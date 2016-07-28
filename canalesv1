@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-0,UCV HD
+http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream1/playlist.m3u8
+#EXTINF:-0,CHV HD
+http://live.hls.http.chv.ztreaming.com/chvhd/chvHi.m3u8
+#EXTINF:-1,CANAL 13 HD
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
+#EXTINF:-1,MEGA HD
+http://edge-21-gtd.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
+#EXTINF:-1,TVN
+http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1,TVU UDEC
+http://movilstream.digitalproserver.com/tvu/tvuvivo/livestream1/playlist.m3u8
+#EXTINF:-1,CAMARA DIPUTADOS
+http://camara.ztreaming.com:80/camara8/streamcam8.sdp/playlist.m3u8?
+#EXTINF:-1,TELECANAL 1
+http://wow2.cl.digitalproserver.com/tccr/tccrvivo/tccr.smil/playlist.m3u8?
+#EXTINF:-1,TELECANAL 2
+http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8?
+#EXTINF:-1,CANAL DEPORTE OLIMPICO CDO
+http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
+#EXTINF:-1,AZTECA DEPORTES
+http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
+#EXTINF:-1,DEPORTES TV
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
+#EXTINF:-1,CMD TV
+http://peer.exabytetv.info/36642/ch07/3.m3u8
+#EXTINF:-1,ESPN+ MEX
+http://porsiemprecontigo.exabytetv.info/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8?
+#EXTINF:-1,ESPN1 MEX
+http://porsiemprecontigo.exabytetv.info/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8?
+#EXTINF:-1,ESPN2 MEX
+http://porsiemprecontigo.exabytetv.info/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8?
+#EXTINF:-1,ESPN MEX HD
+http://porsiemprecontigo.exabytetv.info/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8?
+#EXTINF:-1,GOL TV
+http://goltv.exabytetv.info:80/hls2/amlst:30001_ios/master.m3u8
+#EXTINF:-1,FOX SPORT MEX
+http://porsiemprecontigo.exabytetv.info/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8?
+#EXTINF:-1,TYC SPORT
+http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/35/chunklist.m3u8
+#EXTINF:-1,REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1,WIN SPORT 
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://porsiemprecontigo.exabytetv.info/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE03.m3u8?
+#EXTINF:-1,NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://porsiemprecontigo.exabytetv.info/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE03.m3u8?
+#EXTINF:-1,DISCOVERY CIVI
+http://porsiemprecontigo.exabytetv.info/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE03.m3u8?
+#EXTINF:-1,DISCOVERY CIEN
+http://porsiemprecontigo.exabytetv.info/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE03.m3u8?
+#EXTINF:-1,DISCOVERY THE
+http://porsiemprecontigo.exabytetv.info/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE03.m3u8?
+#EXTINF:-1,DISCOVERY TURBO
+http://porsiemprecontigo.exabytetv.info/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL383/PROFILE03.m3u8?
+#EXTINF:-1,NATIONAL GEOGRA
+http://porsiemprecontigo.exabytetv.info/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE03.m3u8?
+#EXTINF:-1,HISTORY CHA
+http://porsiemprecontigo.exabytetv.info/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE03.m3u8?
+#EXTINF:-1,VH1 CLASIC
+http://porsiemprecontigo.exabytetv.info/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE03.m3u8?
+#EXTINF:-1,VIRGIN MUSIC
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+#EXTINF:-1,MTV HIT
+http://porsiemprecontigo.exabytetv.info/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE03.m3u8?
